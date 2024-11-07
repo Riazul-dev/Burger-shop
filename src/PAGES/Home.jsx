@@ -1,7 +1,7 @@
 import React from 'react'
 import HeroSection from '../COMPONENTS/HeroSection'
 import MenuSection from '../COMPONENTS/MenuSection'
-import About from '../COMPONENTS/about'
+import About from '../COMPONENTS/About'
 import Famous from '../COMPONENTS/Famous'
 import FreeDeliverySection from '../COMPONENTS/FreeDeliverySection'
 
